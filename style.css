@@ -3,3 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+menu{
+    background: red;
+    width: 100%;
+    height: 6vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
